@@ -1,1 +1,4 @@
-print("This line will be printed.")
+[[redirects]]
+  from = "/*"
+  to = "/index.py"
+  status = 200
